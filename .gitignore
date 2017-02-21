@@ -1,0 +1,10 @@
+/.ipynb_checkpoints/
+/Data*/
+/recover*/
+/data*/
+*.h5
+*.p
+/Car*/
+tree.txt
+clone-personal.ipynb
+/annie*/

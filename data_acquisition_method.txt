@@ -1,0 +1,42 @@
+﻿data_ac_backwards_training (Clockwise)
+total in set: 4655
+start: 1164
+end: 3941
+total_to_acquire: 2777
+If we grab Center, left, right: total_to_acquire = 8331
+dataframe: data_pd_cw1
+train: X_train_cw1
+measurements: y_train_cw1
+
+data_acquisition_2 (Counter Clock Wise)
+total in set: 5301
+start: 2000
+end: 4777
+total_to_acquire: 2777
+dataframe: data_pd_ccw1
+train: X_train_ccw1
+measurements: y_train_ccw1
+
+recovery_laps_more(Counter Clock Wise)
+total_in_set: 308
+start: 50
+end: 358
+
+recovery_laps(Counter Clock Wise)
+total_in_set: 935
+start: 20
+end: 930
+total_in_set: 910
+
+recovery_laps_backwards_2(clockwise)
+total_in_set: 694
+start: 9
+end: 694
+total_in_set: 604
+
+
+
+
+
+
+
